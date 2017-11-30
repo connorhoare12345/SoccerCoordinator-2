@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		306685821FD0999F006B1114 /* SoccerCoordinator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SoccerCoordinator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5D4E6A531CAAF5EB00EE3B88 /* SoccerCoordinator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoccerCoordinator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D4E6A561CAAF5EB00EE3B88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5D4E6A581CAAF5EB00EE3B88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				5D4E6A561CAAF5EB00EE3B88 /* AppDelegate.swift */,
+				306685821FD0999F006B1114 /* SoccerCoordinator.playground */,
 				5D4E6A581CAAF5EB00EE3B88 /* ViewController.swift */,
 				5D4E6A5A1CAAF5EB00EE3B88 /* Main.storyboard */,
 				5D4E6A5D1CAAF5EB00EE3B88 /* Assets.xcassets */,
@@ -286,6 +288,7 @@
 				5D4E6A671CAAF5EB00EE3B88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
